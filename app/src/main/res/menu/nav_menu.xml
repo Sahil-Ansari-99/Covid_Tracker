@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_contacts"
+        android:title="Contact Information" />
+
+    <item
+        android:id="@+id/nav_notification"
+        android:title="Notification Information" />
+
+    <item
+        android:id="@+id/nav_hospital_dashboards"
+        android:title="Hospitals and Beds" />
+
+    <item
+        android:id="@+id/nav_medical_colleges"
+        android:title="Medical Colleges and Beds" />
+
+    <item
+        android:id="@+id/nav_deceased"
+        android:title="Deceased" />
+
+</menu>
